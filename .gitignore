@@ -4,5 +4,6 @@ last_dm_id.txt
 .bash_profile
 .bash_it/
 glitch-init.sh
+.wget-hsts
 
 *.bak
