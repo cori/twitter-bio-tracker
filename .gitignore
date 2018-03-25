@@ -1,0 +1,8 @@
+last_mention_id.txt
+last_dm_id.txt
+
+.bash_profile
+.bash_it/
+glitch-init.sh
+
+*.bak
